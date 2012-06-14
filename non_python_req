@@ -1,0 +1,6 @@
+Este proyecto requiere soporte para GeoDjango. Leer la documentación asociada
+e instalar las bibliotecas necesarias para que el manejador de base de datos
+pueda manejar datos geográficos.
+
+Para la configuración de desarrollo se está usando SpatialLite, una biblioteca
+que provee soporte geográfico a SQLite.
